@@ -1,8 +1,11 @@
-**Abstract**
+
+###### - Fill in the language that is going to give the talk -
+
+**Summary**
 
 _A brief overview of what your talk is about_
 
-**About**
+**Description**
 
 _Write your talk/workshop description here_
 
