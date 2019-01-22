@@ -32,7 +32,7 @@ _Add links to resources which can further be used to read up on the topic_
 _Write a brief decription about you here_
 
 
-###### - Can be done after the talk/workshop -
+###### - Next links can be send after the talk/workshop -
 
 [Include link to slides here](link)
 
